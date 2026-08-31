@@ -1,0 +1,19 @@
+PROYECTO DE DESARROLLO DE SOFTWARE
+
+Estudiantes: James Reyes y Felipe Paez
+Curso: 10A
+
+Archivos del proyecto:
+
+main.py
+operaciones.py
+estudiantes.py
+notas.txt
+
+Tecnología:
+Python
+
+Herramientas: 
+Git
+GitHub
+Visual Studio Code
